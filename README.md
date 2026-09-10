@@ -1,39 +1,39 @@
-### Yueshulou Support & Feedback Forum
+### 悦书楼 用户支持与反馈中心 🏛️
 
-Welcome to the official, community-driven support and feedback repository for **[yueshulou.com](https://yueshulou.com)**. 
+欢迎来到「悦书楼」**[yueshulou.com](https://yueshulou.com)** 的官方社区驱动型用户支持与反馈仓库。 
 
-This repository serves as a public space for our community to ask questions, report bugs, share troubleshooting steps, and request new features or content. **No source code is hosted here**—this is entirely a knowledge base and forum for our users. 
+本仓库是一个公开空间，供社区用户提出疑问、反馈 Bug、分享排障经验，以及提交新功能或新内容的建议。**请注意，本仓库不托管任何网站源代码**——它完全作为一个公开的知识库和用户论坛使用。 
 
-### 🚀 How to Use This Forum
+### 🚀 如何使用本论坛
 
-Before opening a new issue, please use the **GitHub Search bar** at the top of the page to see if someone else has already asked your question or suggested your feature. 
+在提交新的 Issue 之前，请先使用页面顶部的 **GitHub 搜索栏**，确认是否已有其他用户提出过相同的问题或建议。 
 
-* **Got a Question or Need Help?** [Open a Support Q&A Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose).
-* **Found a Bug on the Platform?** [Submit a Bug Report](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose).
-* **Have an Idea for a Feature or Content?** [Submit a Feature/Content Request](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose).
+* **有疑问或需要技术支持？** [发起支持与问答 (Q&A)](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose)
+* **发现了网站的 Bug？** [提交 Bug 报告](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose)
+* **有新的功能或内容想法？** [提交功能/内容建议](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose)
 
-### 💡 Important: Feature Requests & Ideas
+### 💡 重要说明：关于功能建议与创意
 
-We love hearing your ideas for new content and platform features! However, to keep this space open and legally safe for everyone, please note our policy regarding suggestions: 
+我们非常欢迎您为网站的发展建言献策！然而，为了确保这个空间完全开放且对各方都具备法律安全保障，请在提交建议前知悉以下政策： 
 
-* **Public Domain Implementation:** By submitting a feature request, content idea, or mock-up, you agree that your suggestion is shared freely with the community.
-* **No Royalties or Strings Attached:** The Yueshulou team is free to build, modify, and implement any ideas posted here into the main yueshulou.com platform without any compensation, royalties, or explicit attribution required.
+* **公有领域转化：** 当您在此提交任何功能建议、内容创意或设计原型时，即表示您同意将该想法无偿分享给整个社区。
+* **无版权限制与无偿使用：** 阅书楼（Yueshulou）团队有权自由采用、修改这些建议，并将其直接实现到 yueshulou.com 的正式产品中，无需支付任何报酬、版税，亦无需进行显式署名。
 
-### ⚖️ Legal Disclaimer & License
+### ⚖️ 法律声明与授权协议
 
-### Content License
+### 内容授权协议
 
-All community-submitted text, issue descriptions, comments, and troubleshooting guides in this repository are dedicated to the public domain under the **[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](LICENSE)**. 
+本仓库中所有由社区提交的文本、Issue 描述、评论及排障指南，均已通过 **[CC0 1.0 Universal (CC0 1.0) 公有领域贡献宣告](LICENSE)** 放弃版权。 
 
-Anyone is free to copy, modify, distribute, or use the information found here for any purpose, including commercial use, without asking for permission or providing attribution. 
+任何人均可出于任何目的（包括商业用途）自由复制、修改、分发或使用此处的信息，无需另行取得授权，亦无需提供署名。 
 
-### "As-Is" Support Disclaimer
+### “按现状”提供支持免责声明
 
-* **No Warranty:** All community-driven advice, configurations, or solutions posted in the issues or discussions are provided **"as-is"** without warranties of any kind.
-* **User Responsibility:** The Yueshulou team does not guarantee the accuracy or safety of user-submitted troubleshooting steps. If you apply advice or code snippets shared by other users in this forum, you do so entirely at your own risk.
+* **不作担保：** 论坛中由社区驱动的所有建议、配置或解决方案均**“按现状（As-Is）”**提供，不包含任何形式的保证或担保。
+* **用户自担风险：** 阅书楼团队无法保证用户提交的排障步骤的准确性或安全性。如果您在自己的设备或系统上尝试、应用本论坛中其他用户分享的建议或代码片段，您将独自承担由此带来的全部风险。
 
-### 🤝 Code of Conduct
+### 🤝 社区行为准则
 
-Please keep all discussions respectful, helpful, and constructive. Do not post sensitive personal data (like passwords, billing info, or private emails) inside public issues. 
+请保持所有讨论的理性、友善和建设性。切勿在公开的 Issue 中张贴任何敏感的个人隐私数据（如密码、账单信息、个人私密邮箱等）。 
 
-Thank you for helping us make **Yueshulou** better for everyone!
+感谢您携手帮助 **阅书楼** 变得更好！
