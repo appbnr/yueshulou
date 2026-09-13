@@ -8,9 +8,9 @@
 
 在提交新的 Issue 之前，请先使用页面顶部的 **GitHub 搜索栏**，确认是否已有其他用户提出过相同的问题或建议。 
 
-* **有疑问或需要技术支持？** [发起支持与问答 (Q&A)](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose)
-* **发现了网站的 Bug？** [提交 Bug 报告](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose)
-* **有新的功能或内容想法？** [提交功能/内容建议](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose)
+* **有疑问或需要技术支持？** [发起支持与问答 (Q&A)](https://github.com/appbnr/yueshulou/issues/new/choose)
+* **发现了网站的 Bug？** [提交 Bug 报告](https://github.com/appbnr/yueshulou/issues/new/choose)
+* **有新的功能或内容想法？** [提交功能/内容建议](https://github.com/appbnr/yueshulou/issues/new/choose)
 
 ### 💡 重要说明：关于功能建议与创意
 
